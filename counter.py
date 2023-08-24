@@ -12,3 +12,4 @@ def lambda_handler(event,context):
     print(views)
     response = table.put_item(Item={'id': '1', 'views': views})
     return views
+    
