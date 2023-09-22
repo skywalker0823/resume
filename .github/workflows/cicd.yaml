@@ -27,9 +27,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
       - name: Install dependencies
-        run: npm install
-      - name: Build website
-        run: npm run build
+        run: cd resume_app && npm install && npm run build && cd ..
       # - name: Test website
       #   run: npm run test
       - name: Upload to S3
