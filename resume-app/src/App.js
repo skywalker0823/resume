@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Motivetag
+          Motivetag,因預算不足暫時關閉中
         </a>
         <p>or</p>
         <a

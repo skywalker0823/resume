@@ -3,6 +3,10 @@
 
 https://resume.pikxl.link/
 
+## 日誌
+* 2023-09-22
+  * 改用 React
+
 ## AWS
 * S3
 * CloudFront
