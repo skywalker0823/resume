@@ -11,16 +11,7 @@ function App() {
         <p>
           主要內容施工中:/
         </p>
-        <p>其他專案可先參考以下</p>
-        <a
-          className="App-link"
-          href="https://motivetag.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Motivetag,因預算不足暫時關閉中
-        </a>
-        <p>or</p>
+        <p>專案可先參考以下</p>
         <a
           className="App-link"
           href="https://github.com/skywalker0823?tab=repositories"
