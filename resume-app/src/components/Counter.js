@@ -21,7 +21,7 @@ export default function Counter() {
 
   return (
     <div>
-      <h1>訪客數: {count !== null ? count : "Loading..."}</h1>
+      <h1>{count !== null ? count : "Loading..."}</h1>
     </div>
   );
 }

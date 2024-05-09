@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
           <Counter />
         <p>
-          主要內容施工中:/
+          廢棄囉~新站建置中
         </p>
         <p>專案可先參考以下</p>
         <a
